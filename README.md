@@ -2,3 +2,4 @@
 Wissen Research
 
 1) Improved UI of potfolio analysis and optimized it by caching api data using Tanstack Query.
+2) Created a multi search input box and integrated multiple apis by setting up axios interceptor.
